@@ -1,20 +1,20 @@
-![WELLCOME](Shaban/wellcome.svg)
+![WELLCOME](Sunny/wellcome.svg)
   
 ______
 
-[![mrsunny](https://github.com/MRSUNNY40/SUNNY-MD](https://whatsapp.com/channel/0029Vb5e79U8aKvJsKsQNw2w)
+[![Shaban](https://raw.githubusercontent.com/MRSUNNY40/SUNNY-MD/main/Sunny/mr.svg)](https://whatsapp.com/channel/0029Vb5e79U8aKvJsKsQNw2w)
 ___ 
 
 <p align="center">
-  <a href="https://github.com/MRSUNNY40/SUNNY-MD" target="_blank">
-    <img src="./Sunny/dev-gold-mini.svg" width="300" alt="Developer — MR SUNNY (Gold 3D)">
+  <a href="https://github.com/MRSUNNY40" target="_blank">
+    <img src="./sunny/dev-gold-mini.svg" width="300" alt="Developer — MR SUNNY (Gold 3D)">
   </a>
 </p>
 
   
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5e79U8aKvJsKsQNw2w" target="_blank">
-    <img src="./Sunny/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
+    <img src="./Sunny channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
 
@@ -22,7 +22,7 @@ ___
 
 <p align="center">
 <a href="https://github.com/MRSUNNY40/SUNNY-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MRSUNNY40-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SUNNY-MD&label=VIEWS&style=square&color=blue" />
 </p>
 
 
@@ -44,7 +44,7 @@ ___
 
 
  <p align="center">
-  <a href="https://github.com/MRSUNNY40/SUNNY-MD" target="_blank">
+  <a href="https://github.com/MRSUNNY40/SUNNY-MD/fork" target="_blank">
     <img src="Sunny/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
   </a>
 </p>
@@ -52,24 +52,24 @@ ___
 
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Sunny/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
+    <img src="./Shaban/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
 -------------
 
 <p align="center">
-  <img src="./Sunny/deployment.svg" width="600" alt="SUNNY  MD — News Ticker Typing">
+  <img src="./Sunny/deployment.svg" width="600" alt="SUNNY MD — News Ticker Typing">
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSUNNY40/SUNNY-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://sunny.lovestoblog.com/" target="_blank"><img src="https://img.shields.io/badge/official-site-A52A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://shaban.lovestoblog.com/" target="_blank"><img src="https://img.shields.io/badge/official-site-A52A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://www.sunny-bomber.zone.id/" target="_blank"><img src="https://img.shields.io/badge/SMS-BOMBER-FF009D?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://www.shaban-bomber.zone.id/" target="_blank"><img src="https://img.shields.io/badge/SMS-BOMBER-FF009D?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-000080?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -144,8 +144,8 @@ jobs:
 
 > 🔔 Stay Connected For Updates Feature Drops And Tutorials!
 
-<a href="https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_" target="_blank">
-  <img src="Shaban/youtube.svg" alt="YouTube" width="250"/>
+<a href="https://youtube.com/@mr282?si=ZVANSbKM0yajAbl_" target="_blank">
+  <img src="Sunny/youtube.svg" alt="YouTube" width="250"/>
 </a>
 
 <p align="center">
@@ -165,7 +165,7 @@ jobs:
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-  <a href="https://github.com/MRSUNNY40/SUNNY-MD">
+  <a href="https://github.com/MRSUNNY40">
     <img src="https://github-readme-stats.vercel.app/api?username=MRSUNNY40&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
@@ -177,12 +177,12 @@ jobs:
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/MRSHABAN45/SHABAN-MD/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/MRSUNNY40/SUNNY-MD/graphs/contributors)
 
 </div>
 
- <p align="center"> <a href="https://github.com/MRSUNNY40/SUNNY-MD//stargazers"> <img src="http://reporoster.com/stars/dark/MRSUNNY40/SUNNY-MD" alt="Stargazers Repo Roster For @MRSUNNY40/SUNNY-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSUNNY40/SUNNY-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSUNNY40/SUNNY-MD" alt="Forkers Repo Roster For @MRSUNNY40/SUNNY-MD"> </a> </p> 
+ <p align="center"> <a href="https://github.com/MRSUNNY40/SUNNY-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSUNNY40/SUNNY-MD" alt="Stargazers Repo Roster For @MRSUNNY/SUNNY-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSUNNY40/SUNNY-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSUNNY40/SUNNY-MD" alt="Forkers Repo Roster For @MRSUNN40/SUNNY-MD"> </a> </p> 
 
 
 <p align="center">
-<img src="SUNNY/nolove.svg" alt="NoLove" width="250"/>
+<img src="Shaban/nolove.svg" alt="NoLove" width="250"/>
